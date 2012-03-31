@@ -1,10 +1,10 @@
 Case Conductor Python dependencies
 ==================================
 
-Python dependencies of the Case Conductor test case management system. 
-Pulled in as a submodule of https://github.com/mozilla/caseconductor/
+Python dependencies of the Case Conductor test case management system.
+Pulled in as a submodule of https://github.com/mozilla/moztrap/
 
-Packages can be added here with ``pip install --download=. 
+Packages can be added here with ``pip install --download=.
 packageName==version``.
 
 This repo can be used as the package source for an installation by pointing
