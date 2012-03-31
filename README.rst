@@ -1,7 +1,7 @@
-Case Conductor Python dependencies
-==================================
+MozTrap Python dependencies
+===========================
 
-Python dependencies of the Case Conductor test case management system.
+Python dependencies of the MozTrap test case management system.
 Pulled in as a submodule of https://github.com/mozilla/moztrap/
 
 Packages can be added here with ``pip install --download=.
